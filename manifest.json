@@ -1,0 +1,26 @@
+[
+    {
+        "imageURL": "https://liuwoodscode.github.io/genai-news-ad/images/genai-news-hiring.PNG",
+        "redirectURL": "https://genai-news.blogspot.com/p/hiring.html"
+    },
+    {
+        "imageURL": "https://liuwoodscode.github.io/genai-news-ad/images/genai-news-sellingads.PNG",
+        "redirectURL": "https://genai-news.blogspot.com/p/advertising.html"
+    },
+    {
+        "imageURL": "https://liuwoodscode.github.io/genai-news-ad/images/glitch_productions.PNG",
+        "redirectURL": "https://www.glitchprod.com/"
+    },
+    {
+        "imageURL": "https://liuwoodscode.github.io/genai-news-ad/images/pixelprowler_subscribe_youtube.PNG",
+        "redirectURL": "https://youtube.com/@LiuWoods"
+    },
+    {
+        "imageURL": "https://liuwoodscode.github.io/genai-news-ad/images/stickerbomb_facingbombedlid.PNG",
+        "redirectURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+        "imageURL": "https://liuwoodscode.github.io/genai-news-ad/images/stickerbomb_facingscreen.png",
+        "redirectURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+]
